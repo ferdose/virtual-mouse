@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/OSGi%Minimum-1.2"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/artoolkitplus.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/artoolkitplus-android-arm.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/artoolkitplus-android-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/artoolkitplus-linux-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/artoolkitplus-linux-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/artoolkitplus-macosx-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/artoolkitplus-windows-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/artoolkitplus-windows-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/ffmpeg.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/ffmpeg-android-arm.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/ffmpeg-android-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/ffmpeg-linux-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/ffmpeg-linux-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/ffmpeg-macosx-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/ffmpeg-windows-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/ffmpeg-windows-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/flycapture.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/flycapture-linux-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/flycapture-linux-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/flycapture-windows-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/flycapture-windows-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/javacpp.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/javacv.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/libdc1394.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/libdc1394-linux-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/libdc1394-linux-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/libdc1394-macosx-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/libfreenect.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/libfreenect-linux-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/libfreenect-linux-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/libfreenect-macosx-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/libfreenect-windows-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/libfreenect-windows-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/opencv.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/opencv-android-arm.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/opencv-android-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/opencv-linux-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/opencv-linux-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/opencv-macosx-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/opencv-windows-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/opencv-windows-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/videoinput.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/videoinput-windows-x86.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vaseem/Downloads/javacv-bin/videoinput-windows-x86_64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
